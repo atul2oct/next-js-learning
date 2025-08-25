@@ -16,6 +16,14 @@
   }
 }
 
+main {
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
